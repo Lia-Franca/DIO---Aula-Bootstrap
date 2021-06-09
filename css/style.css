@@ -1,0 +1,43 @@
+body{
+    font: 20px arial, sans-serif;
+}
+
+.navbar{
+    background-color: black;
+
+}
+
+.quem-somos{
+    background-color:#D21300 ;
+    color: white;
+}
+
+.quem-somos img{
+    margin-bottom: 10px;
+
+}
+
+.margin{
+    padding-bottom: 50px;
+    padding-top: 10px;
+}
+
+.navbar-light .navbar-nav .nav-link{
+    color: white;
+}
+
+.parceiros{
+    background-color: yellow;
+    color: white;
+
+}
+
+.bg-footer{
+    background-color: black;
+    color: white;
+}
+
+.servicos{
+    background-image: url("https://images.pexels.com/photos/408503/pexels-photo-408503.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");
+    color: white;
+}
